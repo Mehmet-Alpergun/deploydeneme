@@ -1,3 +1,3 @@
 export default {
-  base: "./", // <-- bu en önemli kısım
+  base: "./deploydeneme", // <-- bu en önemli kısım
 };
