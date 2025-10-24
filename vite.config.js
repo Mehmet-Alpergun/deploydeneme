@@ -1,3 +1,5 @@
-export default {
-  base: "./deploydeneme/", // <-- bu en önemli kısım
-};
+import { defineConfig } from "vite";
+
+export default defineConfig({
+  base: "/deplodeneme/",
+});
